@@ -1,4 +1,4 @@
-# Data visualization in Python course
+# Data visualization with Python course
 
 © 2016 Randal S. Olson
 
