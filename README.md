@@ -1,3 +1,7 @@
+![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
+![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
+![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+
 # Data visualization with Python course
 
 © 2016 Randal S. Olson
@@ -6,7 +10,7 @@ In this repository, you will find course materials for teaching data visualizati
 
 Some of these materials are based on the video course I developed with O'Reilly called [Data Visualization Basics with Python](http://shop.oreilly.com/product/0636920046592.do).
 
-##Course Prerequisites
+## Course Prerequisites
 
 I designed this course with the expectation that you will have a basic working knowledge of Python, [pandas](http://pandas.pydata.org/), and the [Jupyter Notebook](http://jupyter.org/). If you're unfamiliar with any of these topics, I have provided links to free online learning materials for them below.
 
@@ -16,29 +20,29 @@ I designed this course with the expectation that you will have a basic working k
 
 The **Jupyter Notebook** has [thorough documentation](http://jupyter.readthedocs.org/en/latest/index.html) for how to install and use it.
 
-##Table of Contents
+## Table of Contents
 
-###Section 1: Introduction
+### Section 1: Introduction
 
 This section simply introduces the course, the presenter(s), and what to expect from the course. There are no instructional materials for this section.
 
-###Section 2: Basics of data visualization
+### Section 2: Basics of data visualization
 
 This section covers the basics of data visualization and design, such as choosing the right chart type for your message, good practices, and common pitfalls in data visualization. You will learn the fundamental lessons that anyone aspiring to become a great data visualization practitioner must learn.
 
-###Section 3: Data visualization in Python - matplotlib
+### Section 3: Data visualization in Python - matplotlib
 
 This section dives into coding data visualizations with Python, in particular with the [matplotlib library](http://matplotlib.org/). You will learn how to code bar charts, line charts, scatter plots, and many more basic chart types.
 
 *More sections are currently being developed, including sections on statistical visualization with [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) and interactive visualization with [Bokeh](http://bokeh.pydata.org/).*
 
-##Contributing
+## Contributing
 
 If you would like to contribute to this course, please [file an issue](https://github.com/rhiever/python-data-visualization-course/issues) to discuss what you'd like to contribute. We're generally open to contributions, but we also have a specific scope and purpose for this course that we would like to stick to.
 
-##License and Usage Terms
+## License and Usage Terms
 
-###Instructional Material
+### Instructional Material
 
 All instructional material in this repository is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
@@ -62,7 +66,7 @@ Under the following terms:
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-###Software
+### Software
 
 Except where otherwise noted, the example programs and other software provided in this repository are made available under the [OSI](http://opensource.org/)-approved [MIT license](http://opensource.org/licenses/mit-license.html).
 
